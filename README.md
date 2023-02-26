@@ -1,6 +1,6 @@
 <h1 align="center">Hello Worlds 🖥</h1>
 
-#### Coding helps me to utilize my full potential. I thoroughly enjoy writing code and solving new problems. I'm a professional SEO provider, and I have been offering SEO services to my clients for the past few years. Currently, I also work with Python programming language to automate my tasks and enhance my abilities. I am always looking for opportunities to learn and grow to achieve the best results.
+### Coding helps me to utilize my full potential. I thoroughly enjoy writing code and solving new problems. I'm a professional SEO provider, and I have been offering SEO services to my clients for the past few years. Currently, I also work with Python programming language to automate my tasks and enhance my abilities. I am always looking for opportunities to learn and grow to achieve the best results.
 
 ## 🧰 Languages and Tools <br>
 
